@@ -43,9 +43,8 @@ A collection of Python Turtle Graphics exercises and creative projects completed
 ![Hirst Painting](outputs/hirst_painting.png)
 
 ### 7. Turtle Race
-![Turtle Race](outputs/turtle_race_bet.png)
 ![Turtle Race](outputs/turtle_race.png)
-![Turtle Race](outputs/turtle_race_result.png)
+![Turtle Race](outputs/winner.png)
 
 ### 8. Etch-A-Sketch
 ![Etch A Sketch](outputs/etch_a_sketch.png)
