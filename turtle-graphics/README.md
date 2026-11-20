@@ -1,26 +1,26 @@
 # 🎨 Turtle Graphics – Python Projects
 
-A collection of Python Turtle Graphics exercises and creative coding challenges completed while learning Python through Angela Yu's **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy.
+A collection of Python Turtle Graphics exercises and creative projects completed while learning **100 Days of Code: The Complete Python Pro Bootcamp** by Angela Yu on Udemy.
 
 ## 📌 Concepts Covered
 
-- Turtle Graphics
-- Loops and iterations
-- Functions and code reusability
-- Random module
-- Lists and tuples
-- RGB colour generation
-- Random walks
-- Geometric shapes
-- Spirograph patterns
-- Colour extraction using `colorgram`
+- Turtle Graphics and coordinate systems
+- Loops, functions and iterations
+- Lists, tuples and randomisation
+- RGB colour generation and colour extraction
+- Geometric shapes, random walks and spirographs
+- Object instances and object-oriented programming
+- Event listeners and keyboard controls
+- User input and conditional logic
 
 ## 🐢 Challenges & Projects
 
 | Python File | Description |
 |---|---|
-| `turtle_challenges.py` | Geometric shapes, dashed lines, polygons, random walks and spirographs |
-| `hirst_painting.py` | Hirst-inspired dot painting using randomly selected RGB colours |
+| `turtle_challenges.py` | Geometric shapes, polygons, random walks and spirographs |
+| `hirst_painting.py` | Hirst-inspired dot painting using RGB colours |
+| `turtle_race.py` | Interactive racing game with six coloured turtles and random movement |
+| `etch_a_sketch.py` | Keyboard-controlled drawing application using W, A, S, D and C |
 
 ## 🖼️ Visual Outputs
 
@@ -42,36 +42,41 @@ A collection of Python Turtle Graphics exercises and creative coding challenges 
 ### 6. Hirst-Inspired Dot Painting
 ![Hirst Painting](outputs/hirst_painting.png)
 
+### 7. Turtle Race
+![Turtle Race](outputs/turtle_race_bet.png)
+![Turtle Race](outputs/turtle_race.png)
+![Turtle Race](outputs/turtle_race_result.png)
+
+### 8. Etch-A-Sketch
+![Etch A Sketch](outputs/etch_a_sketch.png)
+
 ## ⚙️ Installation & Execution
 
-**Prerequisites:** Python 3 installed on your system.
+**Prerequisite:** Python 3.
 
-Install the required dependency:
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the exercises:
+Run any project:
 
 ```bash
 python turtle_challenges.py
-```
-
-Run the dot painting:
-
-```bash
 python hirst_painting.py
+python turtle_race.py
+python etch_a_sketch.py
 ```
 
 ## 📦 Libraries Used
 
-- `turtle` – Drawing and graphics.
-- `random` – Random choices, directions and RGB values.
-- `colorgram.py` – Extracting RGB colours from images.
+- `turtle` – Graphics and interactive drawing.
+- `random` – Random choices and movement.
+- `colorgram.py` – RGB colour extraction.
 
-**Note:** Turtle is included in Python's standard library.
+*Turtle and random are part of Python's standard library.*
 
-## 💡 Key Takeaway
+---
 
-Exploring how fundamental Python concepts can be combined to create interactive drawings, geometric patterns and colourful digital artwork.
+*Learning by doing, one project at a time.* 🚀
