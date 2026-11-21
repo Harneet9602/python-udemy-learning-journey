@@ -12,15 +12,34 @@ A collection of Python Turtle Graphics exercises and creative projects completed
 - Object instances and object-oriented programming
 - Event listeners and keyboard controls
 - User input and conditional logic
+- Collision detection and game logic
+- File handling and persistent data storage
 
 ## 🐢 Challenges & Projects
 
-| Python File | Description |
+| Project | Description |
 |---|---|
 | `turtle_challenges.py` | Geometric shapes, polygons, random walks and spirographs |
 | `hirst_painting.py` | Hirst-inspired dot painting using RGB colours |
 | `turtle_race.py` | Interactive racing game with six coloured turtles and random movement |
 | `etch_a_sketch.py` | Keyboard-controlled drawing application using W, A, S, D and C |
+| `snake_game/` | Classic Snake Game featuring OOP, collision detection, pause/resume, restart and persistent high scores |
+
+## 🐍 Featured Project: Snake Game
+
+A classic Snake Game built using Python's Turtle Graphics module.
+
+**Features:**
+- Arrow-key movement and snake growth.
+- Turtle-shaped food.
+- Wall and self-collision detection.
+- Pause and resume functionality.
+- Restart or exit after Game Over.
+- Persistent high score using file handling.
+
+![Snake Game Preview](outputs/preview.png)
+
+**Explore the project:** [Snake Game – Source Code & Documentation](snake_game/)
 
 ## 🖼️ Visual Outputs
 
@@ -44,7 +63,7 @@ A collection of Python Turtle Graphics exercises and creative projects completed
 
 ### 7. Turtle Race
 ![Turtle Race](outputs/turtle_race.png)
-![Turtle Race](outputs/winner.png)
+![Turtle Race Winner](outputs/winner.png)
 
 ### 8. Etch-A-Sketch
 ![Etch A Sketch](outputs/etch_a_sketch.png)
@@ -59,13 +78,14 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run any project:
+Run individual projects from the `turtle-graphics` directory:
 
 ```bash
 python turtle_challenges.py
 python hirst_painting.py
 python turtle_race.py
 python etch_a_sketch.py
+python snake_game/main.py
 ```
 
 ## 📦 Libraries Used
