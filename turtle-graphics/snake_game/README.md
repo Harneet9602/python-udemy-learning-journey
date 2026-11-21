@@ -6,7 +6,7 @@ The project uses Object-Oriented Programming (OOP) to organise game components i
 
 ## 🎮 Preview
 
-![Snake Game](../outputs/gameover-wallhit.PNG)
+![Snake Game](../outputs/preview.png)
 
 ## ✨ Features
 
