@@ -14,7 +14,22 @@ This repository documents my journey of learning Python through structured cours
 
 | Folder | Description |
 |---|---|
-| `turtle-graphics/` | Python Turtle challenges, creative drawings and Hirst-inspired dot painting |
+| `turtle-graphics/` | Python Turtle challenges, creative drawings and projects, including Hirst-inspired dot painting, Turtle Race and Snake Game. |
+| `turtle-graphics/snake_game/` | A classic Snake Game featuring OOP, collision detection, pause/resume, restart functionality and persistent high scores. |
+
+### 🐍 Featured Project: Snake Game
+
+A classic Snake Game built using Python's Turtle Graphics module.
+
+**Features:** 
+- Arrow-key movement and snake growth.
+- Turtle-shaped food.
+- Wall and self-collision detection.
+- Pause and resume functionality.
+- Restart or exit after Game Over.
+- Persistent high score using file handling.
+
+[Explore the Snake Game →](turtle-graphics/snake_game/)
 
 More exercises and projects will be added as I progress through the course.
 
