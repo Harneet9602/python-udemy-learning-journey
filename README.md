@@ -14,14 +14,15 @@ This repository documents my journey of learning Python through structured cours
 
 | Folder | Description |
 |---|---|
-| `turtle-graphics/` | Python Turtle challenges, creative drawings and projects, including Hirst-inspired dot painting, Turtle Race and Snake Game. |
+| `turtle-graphics/` | Python Turtle challenges, creative drawings and projects, including Hirst-inspired dot painting, Turtle Race, Snake Game and Pong Game. |
 | `turtle-graphics/snake_game/` | A classic Snake Game featuring OOP, collision detection, pause/resume, restart functionality and persistent high scores. |
+| `turtle-graphics/pong_game/` | A two-player Pong game featuring paddle controls, ball physics, collision detection and continuous score tracking. |
 
 ### 🐍 Featured Project: Snake Game
 
 A classic Snake Game built using Python's Turtle Graphics module.
 
-**Features:** 
+**Features:**
 - Arrow-key movement and snake growth.
 - Turtle-shaped food.
 - Wall and self-collision detection.
@@ -30,6 +31,20 @@ A classic Snake Game built using Python's Turtle Graphics module.
 - Persistent high score using file handling.
 
 [Explore the Snake Game →](turtle-graphics/snake_game/)
+
+### 🏓 Featured Project: Pong Game
+
+A two-player Pong game built using Python's Turtle Graphics module and Object-Oriented Programming.
+
+**Features:**
+- Independent keyboard controls for both players.
+- Ball movement and bouncing off the top and bottom walls.
+- Paddle collision detection.
+- Score tracking for both players.
+- Increasing ball speed after paddle hits.
+- Continuous gameplay with no fixed winning score or Game Over condition.
+
+[Explore the Pong Game →](turtle-graphics/pong_game/)
 
 More exercises and projects will be added as I progress through the course.
 
