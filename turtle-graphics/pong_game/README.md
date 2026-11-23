@@ -13,6 +13,7 @@ The project uses Object-Oriented Programming (OOP) to organise the paddles, ball
 - Ball speed increases after successful paddle hits.
 - Ball resets and changes direction after a missed shot.
 - Paddle movement is restricted to the game window.
+- Continuous, score-based gameplay with no fixed winning score or Game Over condition.
 - Press Escape to stop the game.
 
 ## 📂 Project Structure
