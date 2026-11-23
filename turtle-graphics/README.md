@@ -54,6 +54,8 @@ A two-player Pong game built using Python's Turtle Graphics module and Object-Or
 - Ball speed increases after successful paddle hits.
 - The game continues indefinitely; there is no fixed winning score or Game Over condition.
 
+![Pong Game Preview](outputs/pong-game.png)
+
 **Controls:**
 
 | Player | Move Up | Move Down |
