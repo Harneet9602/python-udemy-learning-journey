@@ -24,7 +24,7 @@ A collection of Python Turtle Graphics exercises and creative projects completed
 | `turtle_race.py` | Interactive racing game with six coloured turtles and random movement |
 | `etch_a_sketch.py` | Keyboard-controlled drawing application using W, A, S, D and C |
 | `snake_game/` | Classic Snake Game featuring OOP, collision detection, pause/resume, restart and persistent high scores |
-| `pong_game/` | Two-player Pong game featuring paddle controls, ball physics, collision detection and score tracking |
+| `pong_game/` | Two-player Pong game featuring paddle controls, ball physics, collision detection and continuous score tracking |
 
 ## 🐍 Featured Project: Snake Game
 
@@ -48,10 +48,18 @@ A two-player Pong game built using Python's Turtle Graphics module and Object-Or
 
 **Features:**
 - Two-player keyboard controls.
-- Ball bouncing and paddle collision detection.
+- Ball bouncing off the top and bottom walls.
+- Paddle collision detection.
 - Score tracking for both players.
-- Increasing ball speed after paddle hits.
-- Paddle movement boundaries.
+- Ball speed increases after successful paddle hits.
+- The game continues indefinitely; there is no fixed winning score or Game Over condition.
+
+**Controls:**
+
+| Player | Move Up | Move Down |
+|---|---|---|
+| Right paddle | ↑ Up Arrow | ↓ Down Arrow |
+| Left paddle | W | S |
 
 **Explore the project:** [Pong Game – Source Code & Documentation](pong_game/)
 
