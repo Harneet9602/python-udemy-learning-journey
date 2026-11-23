@@ -36,8 +36,6 @@ A classic Snake Game built using Python's Turtle Graphics module.
 
 A two-player Pong game built using Python's Turtle Graphics module and Object-Oriented Programming.
 
-![Pong Game Preview](turtle-graphics/outputs/pong-game.png)
-
 **Features:**
 - Independent keyboard controls for both players.
 - Ball movement and bouncing off the top and bottom walls.
