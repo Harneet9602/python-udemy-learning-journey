@@ -4,6 +4,10 @@ A two-player Pong game built with Python's Turtle Graphics module as part of my 
 
 The project uses Object-Oriented Programming (OOP) to organise the paddles, ball and scoreboard into separate classes.
 
+## 🖼️ Game Preview
+
+![Pong Game – two-player gameplay](../outputs/pong-game.png)
+
 ## 🎮 Features
 
 - Two-player gameplay on one keyboard.
